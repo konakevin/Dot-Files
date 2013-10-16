@@ -1,3 +1,5 @@
+source ~/.bash_prompt
+
 export CLICOLOR=1
 
 export LSCOLORS=GxFxCxDxBxegedabagaced
